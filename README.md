@@ -49,10 +49,11 @@ I'm a passionate professional with a strong background in Technology. My journey
  https://learn.mastermindassurance.com/certificates/1fm5jsxyu7
 
 ## Projects
-- LAM and MAN Network Lab https://media.licdn.com/dms/image/v2/D4D33AQEvH9v9ZjdOFw/productpage-image_1128_635/productpage-image_1128_635/0/1731346019425?e=1745506800&v=beta&t=CVR5LR_P795EckBcgnR7XTF3ucX7S2wB1xX2kY_T5OQ
 
 - GRC Project
-https://drive.google.com/file/d/1R6Rcgw5AH-u8gorG0vc5lcE2UQkULk1o/view
+https://github.com/porryfera/GRC-PROJECT.git
+
+- LAM and MAN Network Lab https://media.licdn.com/dms/image/v2/D4D33AQEvH9v9ZjdOFw/productpage-image_1128_635/productpage-image_1128_635/0/1731346019425?e=1745506800&v=beta&t=CVR5LR_P795EckBcgnR7XTF3ucX7S2wB1xX2kY_T5OQ
   
 - Packet Analysis
   https://media.licdn.com/dms/image/v2/D4E33AQEnDVOJFNxTxg/productpage-image_1128_635/B4EZZEPe64HMAM-/0/1744901662450?e=1745506800&v=beta&t=cLD0qzKnQ3Ad1Vp3yJeRKa3StThjgiY2rBOVnSY-7M0
